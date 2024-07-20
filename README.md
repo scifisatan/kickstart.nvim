@@ -13,3 +13,9 @@ And lastly,
 
 `:Tutor` is very helpful and im mad at myself why i didn't go through it before.
 better late than never ig
+
+---
+For future me, if i want to reinstall nvim and apply the config run this
+```
+git clone https://github.com/scifisatan/kickstart.nvim.git $env:USERPROFILE\AppData\Local\nvim\
+```
